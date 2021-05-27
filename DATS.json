@@ -27,7 +27,7 @@
 				"MINC",
 				"NIfTI"
             ],
-			"size" : 2.38,
+			"size" : 118.35,
 		        "unit" : {
             			"value": "GB"
 		        },
@@ -116,7 +116,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "26"
+					"value": "22"
 				}
 			]
 		},
